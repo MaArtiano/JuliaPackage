@@ -49,6 +49,10 @@ function rse_sum(x)
         println("Tvalues are:",length(s.tvalue))
     end    
     
+
+    function printOwner()
+            println("Marco Artiano")
+    end
     #export rse_sum
     #export rse_mean
     #export rse_std
