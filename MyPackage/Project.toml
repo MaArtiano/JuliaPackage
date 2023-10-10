@@ -1,0 +1,10 @@
+name = "MyPackage"
+uuid = "40fe9a32-bc7d-4c78-a756-9d85899879e4"
+authors = ["marco "]
+version = "0.1.0"
+
+[deps]
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+
+[compat]
+julia = "1.9"
